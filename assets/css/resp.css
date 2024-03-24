@@ -1,8 +1,8 @@
 @media (max-width:600px) {
 
     .header .navbar {
-        padding-top: 1vw;
-        padding-bottom: 1vw;
+        padding-top: 3vw;
+        padding-bottom: 2vw;
         justify-content: space-between;
         background-color: none;
     
